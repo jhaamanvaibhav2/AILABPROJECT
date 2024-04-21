@@ -20,6 +20,9 @@ further evolve and optimize.
 neural network structure and incrementally adds complexity through mutations that introduce
 new nodes and connections. This allows for an efficient exploration of the search space while
 avoiding the potential bloat associated with starting with overly complex structures.
+
+
+
 By leveraging these techniques, NEAT is capable of evolving both the weights and topologies
 of neural networks simultaneously, making it well-suited for problems where the optimal network
 structure is not known a priori. In our project, we utilized NEAT to evolve the neural network
