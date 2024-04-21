@@ -1,5 +1,7 @@
+**NEAT ALGORITHM**
+
 In our project, we have applied a variant of Genetic Algorithms (GAs) known as NeuroEvolution
-of Augmenting Topologies (NEAT) [12] to evolve the behavior of an AI agent to play a game effec-
+of Augmenting Topologies (NEAT) to evolve the behavior of an AI agent to play a game effec-
 tively. NEAT is an innovative algorithm that combines the principles of neuroevolution with a unique
 approach to evolving both the weights and structure of neural networks.
 The NEAT algorithm begins with a population of simple neural networks, where each network
