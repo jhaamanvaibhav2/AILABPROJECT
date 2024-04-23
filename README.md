@@ -9,10 +9,8 @@ performance in the given task (in our case, playing the game). The algorithm emp
 techniques:
 1. Tracking Genes through Historical Markings: Each gene (representing a connection or
 node in the neural network) is assigned a unique historical marking. This allows NEAT to
-efficiently match up genes during crossover between different topologies, ensuring that the con-
-nectivity patterns are preserved.
-2. Protecting Structural Innovation through Speciation: NEAT employs a speciation mech-
-anism that separates the population into species based on the similarity of their topologies. This
+efficiently match up genes during crossover between different topologies, ensuring that the connectivity patterns are preserved.
+2. Protecting Structural Innovation through Speciation: NEAT employs a speciation mechanism that separates the population into species based on the similarity of their topologies. This
 protects innovative solutions from being immediately discarded, allowing them to potentially
 further evolve and optimize.
 3. Incrementally Growing from Minimal Structure: The algorithm starts with a minimal
