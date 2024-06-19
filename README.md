@@ -21,6 +21,14 @@ neural network structure and incrementally adds complexity through mutations tha
 new nodes and connections. This allows for an efficient exploration of the search space while
 avoiding the potential bloat associated with starting with overly complex structures.
 
+## Contributors
+
+[Aman Vaibhav Jha]
+
+[Ammar Ahmad]
+
+[Akash Sinha]
+
 
 
 By leveraging these techniques, NEAT is capable of evolving both the weights and topologies
