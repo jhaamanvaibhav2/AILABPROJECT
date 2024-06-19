@@ -21,18 +21,16 @@ neural network structure and incrementally adds complexity through mutations tha
 new nodes and connections. This allows for an efficient exploration of the search space while
 avoiding the potential bloat associated with starting with overly complex structures.
 
-## Contributors
-
-[Aman Vaibhav Jha]
-
-[Ammar Ahmad]
-
-[Akash Sinha]
-
-
-
 By leveraging these techniques, NEAT is capable of evolving both the weights and topologies
 of neural networks simultaneously, making it well-suited for problems where the optimal network
 structure is not known a priori. In our project, we utilized NEAT to evolve the neural network
 controlling the behavior of the AI agent, allowing it to adapt and improve its gameplay strategy
 through successive generations of evolution.
+
+## Contributors
+
+Aman Vaibhav Jha
+
+Ammar Ahmad
+
+Akash Sinha
